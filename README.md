@@ -1,3 +1,3 @@
 # hello-word
 just another apository
-helo. my name is wiker. I like walk
+helo. my name is witek. I like walk
